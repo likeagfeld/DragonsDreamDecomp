@@ -1,0 +1,48 @@
+2026-03-10 15:40:35,891 [WARNING] DD: RSA mode: BYPASS — all logins accepted without verification
+2026-03-10 15:40:36,166 [INFO] DD: Database ready: dragons_dream.db
+2026-03-10 15:40:36,166 [WARNING] DD: RSA mode: BYPASS — all logins accepted without verification
+2026-03-10 15:40:41,338 [WARNING] DD: RSA mode: BYPASS — all logins accepted without verification
+2026-03-10 15:40:41,343 [INFO] DD: Database ready: dragons_dream.db
+2026-03-10 15:40:41,344 [WARNING] DD: RSA mode: BYPASS — all logins accepted without verification
+2026-03-10 15:42:02,659 [WARNING] DD: RSA mode: BYPASS — all logins accepted without verification
+2026-03-10 15:42:02,663 [INFO] DD: Database ready: dragons_dream.db
+2026-03-10 15:42:02,664 [WARNING] DD: RSA mode: BYPASS — all logins accepted without verification
+2026-03-10 15:42:49,984 [WARNING] DD: RSA mode: BYPASS — all logins accepted without verification
+2026-03-10 15:42:49,988 [INFO] DD: Database ready: dragons_dream.db
+2026-03-10 15:42:49,989 [WARNING] DD: RSA mode: BYPASS — all logins accepted without verification
+2026-03-10 15:48:37,971 [WARNING] DD: RSA mode: BYPASS — all logins accepted without verification
+2026-03-10 15:48:37,977 [INFO] DD: Database ready: dragons_dream.db
+2026-03-10 15:48:37,977 [WARNING] DD: RSA mode: BYPASS — all logins accepted without verification
+2026-03-10 15:48:41,284 [WARNING] DD: RSA mode: BYPASS — all logins accepted without verification
+2026-03-10 15:48:41,288 [INFO] DD: Database ready: dragons_dream.db
+2026-03-10 15:48:41,288 [WARNING] DD: RSA mode: BYPASS — all logins accepted without verification
+2026-03-10 15:48:46,418 [WARNING] DD: RSA mode: BYPASS — all logins accepted without verification
+2026-03-10 15:48:46,422 [INFO] DD: Database ready: dragons_dream.db
+2026-03-10 15:48:46,422 [WARNING] DD: RSA mode: BYPASS — all logins accepted without verification
+2026-03-10 15:54:07,682 [WARNING] DD: RSA mode: BYPASS — all logins accepted without verification
+2026-03-10 15:54:07,718 [INFO] DD: Database ready: dragons_dream.db
+2026-03-10 15:54:07,718 [WARNING] DD: RSA mode: BYPASS — all logins accepted without verification
+2026-03-10 15:54:07,721 [INFO] DD: Dragon's Dream revival server listening on TCP port 8020
+2026-03-10 15:54:07,721 [INFO] DD: RSA mode: bypass
+2026-03-10 16:34:33,894 [INFO] DD: Connection from 192.168.50.96:50272
+2026-03-10 16:34:33,913 [INFO] DD/192.168.50.96:50272: Starting IV handshake
+2026-03-10 16:34:33,916 [DEBUG] DD/192.168.50.96:50272: SEND 264 bytes
+  0000  49 56 31 30 30 30 30 30 00 42 03 1E 00 00 00 00   IV100000.B......
+  0010  00 00 00 00 00 00 00 00 84 00 A8 24 42 EC A3 46   ...........$B..F
+  0020  86 52 3B 3E 44 AF 2E DA F3 08 9F 16 09 36 10 99   .R;>D........6..
+  0030  4F 9F 4F 4D D0 00 FE 27 FB ED 0A 28 84 BC A5 59   O.OM...'...(...Y
+  0040  C5 1F DB 01 C4 42 8D 63 6B 5D A4 42 81 F3 2F 8E   .....B.ck].B../.
+  0050  08 B6 F6 5C 80 92 06 3F D7 CA 00 00 00 00 00 00   ...\...?........
+  0060  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+  0070  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+  0080  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+  0090  00 00 00 00 00 00 00 00 00 00 01 00 01 00 00 00   ................
+  00A0  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+  00B0  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+  00C0  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+  00D0  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+  00E0  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+  00F0  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+  0100  00 00 00 00 00 00 00 00                           ........
+2026-03-10 16:35:15,761 [INFO] DD/192.168.50.96:50272: Connection closed: Client disconnected
+2026-03-10 16:35:15,763 [INFO] DD/192.168.50.96:50272: Handler exiting for 192.168.50.96:50272 member=None
