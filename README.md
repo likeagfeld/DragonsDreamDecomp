@@ -1,4 +1,4 @@
-# disclaimer!! this is emtirely developed and written by Claude Code....while the server gets you through the entire logon flow it should be assumed that much of the content below may be hallucinated! please be warned 
+# disclaimer!! this is entirely developed and written by Claude Code....while the server gets you through the entire logon flow it should be assumed that much of the content below may be hallucinated! please be warned 
 
 
 # Dragon's Dream: Complete Decompilation & Engineering Manual
